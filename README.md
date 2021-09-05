@@ -12,5 +12,10 @@ Hoje, sigo estudando, aprendendo e fracassando em muitas coisas, e não penso em
 - 🏫 Aprendendo Node e Javascript
 - 😼 <3 Neferpitou
 
-
-não sei se deu pra perceber, mas amo muito a minha waifu
+ <div>
+  <a href="https://github.com/pitouemat">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pitouemat&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pitouemat&layout=compact&langs_count=16&theme=omni"/>
+<div>
+  
+não sei se deu pra perceber, mas amo muito a minha waifu <3 linda
