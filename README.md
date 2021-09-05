@@ -2,7 +2,7 @@
 
 
 **Boas-Vindas!** Meu nome é Matheus, não repara a bagunça.
-<img align="right" alt="Mat-Pitou" src="https://user-images.githubusercontent.com/79723385/132144681-912f2eff-5e0a-4f17-9759-81477065a3a8.gif" width='70%'>
+<img align="right" alt="Mat-Pitou" src="https://user-images.githubusercontent.com/79723385/132144681-912f2eff-5e0a-4f17-9759-81477065a3a8.gif" width='300'>
 
 
 Comecei a estudar programação em 2016, em um curso no mínimo questionável. Ainda muito novo, eu estudava, mas não tinha a mínima ideia do que estava fazendo, foi apenas em 2021 que eu realmente me dediquei à aprender essa área tão maravilhosa.
