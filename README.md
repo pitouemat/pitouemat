@@ -18,6 +18,15 @@ Hoje, sigo estudando, aprendendo e fracassando em muitas coisas, e não penso em
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pitouemat&layout=compact&langs_count=16&theme=omni"/>
  </a>
 </div>
+
+ 
+<div> 
+
+  <a href="https://instagram.com/pitouemat" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/matheus-aguiar-2b9703212/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
+</div>
+
   
  
 ***não sei se deu pra perceber, mas amo muito a minha waifu <3 linda***
