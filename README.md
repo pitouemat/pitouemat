@@ -13,6 +13,9 @@ Hoje, sigo estudando, aprendendo e fracassando em muitas coisas, e não penso em
 - 🏫 Aprendendo Node e Javascript
 - 😼 <3 Neferpitou
 
+
+
+
  <div>
   <a href="https://github.com/pitouemat">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=pitouemat&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
