@@ -15,7 +15,7 @@ Hoje, sigo estudando, aprendendo e fracassando em muitas coisas, e não penso em
  <div>
   <a href="https://github.com/pitouemat">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=pitouemat&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pitouemat&layout=compact&langs_count=16&theme=omni"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pitouemat&layout=compact&langs_count=16&theme=omni"/>
  </a>
 </div>
   
