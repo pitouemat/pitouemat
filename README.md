@@ -1,16 +1,16 @@
-### Hi there 👋
+### Matheus Aguiar - 16 Anos
 
-<!--
-**pitouemat/pitouemat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+**Boas-Vindas!** Meu nome é Matheus, não repara a bagunça.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Comecei a estudar programação em 2016, em um curso no mínimo questionável. Ainda muito novo, eu estudava, mas não tinha a mínima ideia do que estava fazendo, foi apenas em 2021 que eu realmente me dediquei à aprender essa área tão maravilhosa.
+
+Hoje, sigo estudando, aprendendo e fracassando em muitas coisas, e não penso em parar XD
+
+
+- 🏫 Cursando 2° ano do ensino médio
+- 🏫 Aprendendo Node e Javascript
+- 😼 <3 Neferpitou
+
+
+não sei se deu pra perceber, mas amo muito a minha waifu
