@@ -10,7 +10,7 @@ Hoje, sigo estudando, aprendendo e fracassando em muitas coisas, e não penso em
 
 
 - 🏫 Cursando 2° ano do ensino médio
-- 🏫 Aprendendo Node e Javascript
+- 🏫 Aprendendo Node, PHP e Javascript
 
 
 
