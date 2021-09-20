@@ -32,4 +32,3 @@ Hoje, sigo estudando, aprendendo e fracassando em muitas coisas, e não penso em
 
   
  
-***não sei se deu pra perceber, mas amo muito a minha waifu <3 linda***
