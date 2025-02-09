@@ -1,4 +1,4 @@
-### Matheus Aguiar - 19 Anos
+### Matheus Aguiar - 20 Anos
 
 
 **Boas-Vindas!** Meu nome é Matheus, não repara a bagunça.
@@ -11,7 +11,8 @@ Hoje, sigo estudando, aprendendo e fracassando em muitas coisas, e não penso em
 
 
 - 🏫 Paixão por GameDev
-- 🏫 Aprendendo Node, PHP e Javascript
+- 🏫 Aprendendo Python e Javascript
+  
 
 
 
