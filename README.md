@@ -14,15 +14,15 @@ Hoje, sigo estudando, aprendendo e fracassando em muitas coisas, e não penso em
 - 🏫 Aprendendo Python e Javascript
   
 
-
-
-
- <div>
-  <a href="https://github.com/pitouemat">
+<! –
+<div>
+ <a href="https://github.com/pitouemat">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=pitouemat&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pitouemat&layout=compact&langs_count=16&theme=omni"/>
- </a>
-</div>
+ <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pitouemat&layout=compact&langs_count=16&theme=omni"/>
+</a>
+/div>
+->
+
 
  
 <div> 
